@@ -1,0 +1,15 @@
+# Ignore virtual environment
+venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Streamlit config
+.streamlit/
+
+# Jupyter notebooks checkpoint
+.ipynb_checkpoints/
